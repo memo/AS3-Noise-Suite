@@ -1,0 +1,12 @@
+﻿<flash_project name="NoiseDemo" version="1">
+    <project_file path=".:NoiseDemo.fla" filetype="fla" profile="" />
+    <project_file path=".:NoiseDemo.as" filetype="as" />
+    <project_file path="..:__MyClasses/AS3/msa/noise/Smoothing.as" filetype="as" />
+    <project_file path="..:__MyClasses/AS3/msa/noise/Noise.as" filetype="as" />
+    <project_file path="..:__MyClasses/AS3/msa/noise/FunctionsList.as" filetype="as" />
+    <project_file path="..:__MyClasses/AS3/msa/noise/Voronoi.as" filetype="as" />
+    <project_file path="..:__MyClasses/AS3/msa/noise/Perlin.as" filetype="as" />
+    <project_file path="..:__MyClasses/AS3/msa/noise/MathUtils.as" filetype="as" />
+    <project_file path="..:__MyClasses/AS3/msa/noise/NoiseSuper.as" filetype="as" />
+    <project_file path="..:__MyClasses/AS3/msa/noise/Generator.as" filetype="as" />
+</flash_project>
